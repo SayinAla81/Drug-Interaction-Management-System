@@ -91,10 +91,6 @@ The combination of binary trees and hashing optimizes the system in the followin
 - **Efficient Insertions and Deletions**: The binary tree provides efficient insertions and deletions, making it easy to modify the system's data.
 - **Scalability**: This structure can handle a large amount of data while maintaining performance.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The binary tree and hashing approach was chosen for its performance and scalability in managing medical data.
